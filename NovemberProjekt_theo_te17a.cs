@@ -10,6 +10,10 @@ namespace Theodore_TE17A_Novemberprojektet
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("jag lärde wood att använda git, nu testar jag bara om allt fungerar");
+
+
+
         }
     }
 }
